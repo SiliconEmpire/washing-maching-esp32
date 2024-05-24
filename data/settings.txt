@@ -1,0 +1,1 @@
+{"circles":30,"status":true,"remainingCircles":0,"pausePeriod":0,"ccwPeriod":0,"ccPeriod":0}
